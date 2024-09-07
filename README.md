@@ -6,7 +6,7 @@ Este proyecto fue desarrollado en 2015 para cumplir con los requerimientos espec
 
 El firmware implementa un circuito de auto-disparo para joysticks y gamepads compatibles con las normas **Atari/Commodore**, y es adaptable a otros sistemas como **MSX** o **Amstrad**. Está diseñado para funcionar con un microcontrolador **PIC 10F200** y fue creado usando el entorno de desarrollo **MPLAB X v2.05** con el compilador **XC8**.
 
-Este proyecto fue desarrollado como parte del proyecto del joystick A4 de Enrique García. Puedes encontrar más información sobre su proyecto en su [canal de YouTube](https://www.youtube.com/channel/UCb7_NkehBK6dyK2aAPUDlYA).
+A4Fire fue desarrollado como parte del proyecto del joystick A4 de Enrique García. Puedes encontrar más información sobre su proyecto en su [canal de YouTube](https://www.youtube.com/channel/UCb7_NkehBK6dyK2aAPUDlYA).
 
 ## Estructura del Proyecto
 
