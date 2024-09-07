@@ -27,6 +27,9 @@ El proyecto está organizado en dos secciones principales:
    
 2. El archivo `A4-autofire-PIC10F200.hex` se puede flashear en un microcontrolador **PIC 10F200** usando cualquier programador compatible o universal, como los populares programadores de la serie **TL866**.
 
+![Circuito](https://github.com/user-attachments/assets/d790847c-b542-4033-898c-e8b633482cca)
+![IMAG2732](https://github.com/user-attachments/assets/39bbc65c-fa68-45eb-bfe4-94f3060e928a)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Eres libre de usar, modificar y distribuir el proyecto tanto para fines personales como comerciales. Además, puedes sublicenciar y/o vender copias del proyecto. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
