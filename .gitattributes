@@ -2,6 +2,7 @@
 *.hex linguist-vendored
 *.epf linguist-vendored
 *.pro linguist-vendored
+*.ctl linguist-vendored
 
 # Forzar el reconocimiento de lenguaje C
 *.c linguist-language=C
