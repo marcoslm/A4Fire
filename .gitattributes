@@ -1,0 +1,7 @@
+# Ignorar archivos que no sean relevantes para el lenguaje del proyecto
+*.hex linguist-vendored
+*.epf linguist-vendored
+*.pro linguist-vendored
+
+# Forzar el reconocimiento de lenguaje C
+*.c linguist-language=C
