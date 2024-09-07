@@ -30,6 +30,17 @@ El proyecto está organizado en dos secciones principales:
 ![Circuito](https://github.com/user-attachments/assets/d790847c-b542-4033-898c-e8b633482cca)
 ![IMAG2732](https://github.com/user-attachments/assets/f59c726c-e6d9-4792-b3e0-b6a98342d908)
 
+## Esquema de Conexiones
+
+| SERIGRAFÍA | NOMBRE      | DESCRIPCIÓN                                                        |
+|------------|-------------|--------------------------------------------------------------------|
+| FO         | FIRE OUT    | Salida de disparo hacia el ordenador                               |
+| G          | GROUND      | Tierra                                                             |
+| +5         | +5 VOLTS    | Alimentación a 5V (desde el conector o batería)                    |
+| FI         | FIRE IN     | Botón de disparo (botón físico del joystick)                       |
+| SW1        | SWITCH      | Interruptor para activar/desactivar autofire                       |
+| SPEED      | SPEED SEL   | Selección de velocidad (1-2 = Normal, 2-3 = Turbo) 
+
 ## Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Eres libre de usar, modificar y distribuir el proyecto tanto para fines personales como comerciales. Además, puedes sublicenciar y/o vender copias del proyecto. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
