@@ -1,0 +1,14 @@
+SERIGRAFÍA	NOMBRE		DESCRIPCIÓN
+
+-----------------------------------------------------------------------------------
+    FO		FIRE OUT	Salida de disparo hacia el ordenador	
+
+    G		GROUND		Tierra
+
+    +5		+5 VOLTS	Alimentación a 5V (desde el conector o batería)
+
+    FI		FIRE IN		Botón de disparo (botón físico del joystick)
+
+    SW1		SWITCH		Interruptor para activar/desactivar autofire
+
+    SPEED	SPEED SEL	Selección de velocidad (1-2=Normal 2-3=Turbo)
